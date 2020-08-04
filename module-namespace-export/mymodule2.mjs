@@ -1,0 +1,1 @@
+export default () => console.log('My module 2');
